@@ -13,12 +13,12 @@
 *** NoName NoRestive *** （若隐，若现）
 *** PokerFace NoMoody *** （定色，藏情）
 *** SpotOn WalkTheTalk *** （一语道破，革凡成圣）
-*** Sincerity Nobility *** （致诚传心，破昏解迷）
+*** Sincerity Nobility *** （奥义传诚，破昏解迷）
 *** Research NoBelittle *** （去伪存真，位高行深）
 *** WatchDream NoDeadToWorld *** （探梦寻根，初醒妙算）
+*** GodInDetail DevilInDetail *** （善决断疑，刹那生死）
 *** EmbraceHardship NoBreakDown *** （抱苦育乐，治本疗忧）
-*** GodInTheDetail DevilInTheDetail *** （善决断疑，刹那生死）
-*** FromKnowledgeToWisdom NoOverlook *** （矢智不渝，言出果行）
+*** FromKnowledgeToWisdom NoOverlook *** （矢智不渝，命发果行）
 *** EverythingSeeClearly NothingInHeart *** （观天察地，大巧无心）
 
 * Special
