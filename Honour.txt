@@ -5,15 +5,15 @@
 ** Click （点额）
 ** Send （传会）
 
-* Benediction （校对，滋养）
-** Daily | Correct < 3 （每天|事不过三）
+* Hope （校对，滋养）
+** Daily | Remedy < 2 （昼夜|点到即止）
 
 *** BeFast NoRush *** （速通，静练）
 *** AceOfAce NoJoke *** （超今，冠古）
-*** NoName NoRestive *** （若隐，若现）
+*** NoName NoTemper *** （若隐，若现）
 *** PokerFace NoMoody *** （定色，藏情）
+*** BonaFide Nobility *** （奥义传诚，破昏解迷）
 *** SpotOn WalkTheTalk *** （一语道破，革凡成圣）
-*** Sincerity Nobility *** （奥义传诚，破昏解迷）
 *** Research NoBelittle *** （去伪存真，位高行深）
 *** HoldPain NoBreakDown *** （化苦育乐，治本疗忧）
 *** WatchDream NoDeadSleep *** （探秘寻梦，初醒妙算）
@@ -21,5 +21,5 @@
 *** KnowledgeToWisdom NoOverlook *** （矢智不渝，命发果行）
 *** EverythingClearly NothingInHeart *** （观天察地，大巧无心）
 
-* Special
-** OnlyPunish NoReward
+* Best
+** OnlyPunish NoAward
